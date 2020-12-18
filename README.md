@@ -2,7 +2,7 @@
 
 Currently working on:
 
-- [Apple Playlists Plus](https://github.com/gawlk/apple-playlists-plus): Which is a [website](https://apple-playlists-plus.gawlk.workers.dev/) that lets you filter Apple Music playlists based on an artist, a genre, a song or even words
+- [Apple Playlists Plus](https://github.com/gawlk/apple-playlists-plus): A [website](https://apple-playlists-plus.gawlk.workers.dev/) that lets you filter Apple Music playlists based on an artist, a genre, a song or even words
 - [Spotify Premium Playlists](https://github.com/gawlk/spotify-premium-playlists): The [Spotify version](https://spotify-premium-playlists.gawlk.workers.dev/) of Apple Playlists Plus
 - [Quickbook](https://github.com/quickbookio): A very customizable [web app](https://quickbook.io/) for writing books in Markdown
 - Populus
