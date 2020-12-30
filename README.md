@@ -14,3 +14,5 @@ Done / Deprecated:
 - [svelte-class-transition](https://github.com/gawlk/svelte-class-transition): A very simple Svelte 3 component that allows you to do transitions using CSS classes (created specifically for Tailwind CSS)
 - [Svind](https://github.com/gawlk/svind): A boilerplate with the Svind stack (Svelte, Vite, Vercel and Tailwind)
 - [A bunch](https://github.com/gawlk?tab=repositories&q=&type=&language=shell) of Bash scripts
+
+If you ❤️ what I do and would like to help me, you can [buy me a ☕️](https://www.buymeacoffee.com/gawlk)
