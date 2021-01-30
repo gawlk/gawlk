@@ -5,7 +5,7 @@ Currently working on:
 - [Quickbook](https://github.com/quickbookio): A very customizable [web app](https://quickbook.io/) for writing books in Markdown
 - [vite-plugin-full-pwa](https://github.com/gawlk/vite-plugin-full-pwa): A plugin for vite to generate a full PWA with favicons, a manifest and a service worker 
 - [vite-plugin-cdn-auto](https://github.com/gawlk/vite-plugin-cdn-auto): A fork of @vite/plugin-cdn with some tweaks
-- [Nummus](https://github.com/gawlk/nummus): A clear summary of your of your investments
+- [Nummus](https://github.com/gawlk/nummus): An app that displays a clear summary of your investments
 
 Done:
 
