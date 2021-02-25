@@ -13,7 +13,7 @@ Done:
 - [Spotify Premium Playlists](https://github.com/gawlk/spotify-premium-playlists): The [Spotify version](https://spotify-premium-playlists.gawlk.workers.dev/) of Apple Playlists Plus
 - [Predicoin](https://github.com/gawlk/predicoin): A fallacious [website](https://predicoin.gawlk.workers.dev) for cryptoprophecies
 - [OneBrand](https://github.com/gawlk/onebrand): A [website](https://onebrand.vercel.app/) that helps you discover new brands for onebagging
-- [svelte-class-transition](https://github.com/gawlk/svelte-class-transition): A very simple Svelte 3 component that allows you to do transitions using CSS classes (created specifically for Tailwind CSS)
+- [svelte-class-transition](https://github.com/gawlk/svelte-class-transition): [A very simple Svelte 3 component](https://www.npmjs.com/package/svelte-class-transition) that allows you to do transitions using CSS classes (created specifically for Tailwind CSS)
 - [Svind](https://github.com/gawlk/svind): A boilerplate with the Svind stack (Svelte, Vite, Vercel and Tailwind)
 - [A bunch](https://github.com/gawlk?tab=repositories&q=&type=&language=shell) of Bash scripts
 
