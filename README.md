@@ -6,7 +6,7 @@ Currently working on:
 - [Nummus](https://github.com/gawlk/nummus): An app that displays a clear summary of your investments
 - [vite-plugin-full-pwa](https://github.com/gawlk/vite-plugin-full-pwa): A [plugin](https://www.npmjs.com/package/vite-plugin-full-pwa) for vite to generate a full PWA with favicons, a manifest and a service worker 
 - [vite-plugin-cdn-auto](https://github.com/gawlk/vite-plugin-cdn-auto): A [fork](https://www.npmjs.com/package/vite-plugin-cdn-auto) of @vite/plugin-cdn with some tweaks
-- [ruelle](https://github.com/gawlk/ruelle): A very tiny [router](https://www.npmjs.com/package/ruelle) for vue and vite
+- [ruelle](https://github.com/gawlk/ruelle): A very tiny customizable file based [router](https://www.npmjs.com/package/ruelle) for vue and vite
 
 Done:
 
