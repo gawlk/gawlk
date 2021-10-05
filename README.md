@@ -2,7 +2,7 @@
 
 Currently working on:
 
-- Ancre: The yellow book to the internet
+- Ancre: The yellow book of the internet
 
 On hold:
 
