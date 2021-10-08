@@ -1,7 +1,7 @@
 Building:
 
 - Ancre: The yellow book of the internet
-- SYP (Secure your profits): A [website](https://syp.tech) that helps you invest in cryptocurrencies
+- syp (secure your profits): A [website](https://syp.tech) that helps you invest in cryptocurrencies
 
 Paused:
 
