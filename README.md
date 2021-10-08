@@ -3,6 +3,7 @@
 Currently working on:
 
 - Ancre: The yellow book of the internet
+- SYP (Secure your profits): A [website](https://syp.tech) that helps you invest in cryptocurrencies
 
 On hold:
 
@@ -10,7 +11,6 @@ On hold:
 - [Nummus](https://github.com/gawlk/nummus): An app that displays a clear summary of your investments
 - Populus: Meet people in a virtual map (open video and audio chat)
 - [ruelle](https://github.com/gawlk/ruelle): A very tiny customizable file based [router](https://www.npmjs.com/package/ruelle) for vue and vite
-- syp: Secure your profits - A [website](https://syp.tech) that helps you invest in crypto while still being safe
 
 Done:
 
