@@ -1,1 +1,1 @@
- SolidJS  ⁄ Vite ⁄ Deno ⁄ TailwindCSS⁄ Typescript
+ SolidJS  ⁄ Vite ⁄ Deno ⁄ TailwindCSS ⁄ Typescript ⁄ Rust
